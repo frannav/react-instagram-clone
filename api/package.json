@@ -1,7 +1,7 @@
 {
-  "name": "curso-avanzado-graphql-server",
+  "name": "graphql-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Graphql-Server for my project, ig-clone 🧙🏼‍♂️",
   "main": "index.js",
   "scripts": {
     "deploy": "now -t <tu-token>",
